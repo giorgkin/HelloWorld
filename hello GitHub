@@ -1,0 +1,8 @@
+public class HelloWGitHub {
+
+    public static void main(String[] args) {
+        // Prints "Hello, GitHub" to the terminal window.
+        System.out.println("Hello, GitHub");
+    }
+
+}
